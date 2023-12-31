@@ -1,5 +1,4 @@
 # Combat-Counterfeit-Products
-# Combatting Counterfeit Products with Blockchain
 
 ## Overview
 
